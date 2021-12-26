@@ -1,0 +1,23 @@
+.maintbl
+{
+    width: 800px;
+    margin: 0 auto;
+    border: solid 1px #ccc;
+    background-color: #ffd92e;
+}
+.maintbl td
+{
+    height: 50px;
+    line-height: 50px;
+    font-family: fantasy;
+    font-size: 12pt;
+    color: #333;
+    text-align: center;
+}
+.maintbl th
+{
+    background-color: #ccc;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
